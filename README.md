@@ -14,3 +14,4 @@ guidance_scale: this is the classifier free guidance. The higher this is set, th
 
 Examples:
 
+![Example results](magic-mix-examples.gif "Example results with this notebook")
